@@ -1,0 +1,18 @@
+For new Folder :
+
+- git init
+- git remote add origin git@github.com:teacher-bayo/Mohamed-Balde.git
+- git status 
+- git add .
+- git commit -m "message"
+- git push
+
+For existing folder :
+
+- git status 
+- git add .
+- git commit -m "message"
+- git push
+
+Git access : User Name : teacher-bayo
+	     Password : Conakryka$12
